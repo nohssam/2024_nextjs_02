@@ -1,0 +1,10 @@
+.menu_title{
+    text-align:center;
+    margin: 10px;
+}
+.menu_body{
+    height: 600px;
+    text-align: center;
+    width: 80% ;
+    margin: auto;
+}
